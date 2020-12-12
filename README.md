@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Study project React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project source
+
+### The template was used for educational purposes from: [colorlib.com](https://colorlib.com/preview/#anipat)
+
+![img](https://github.com/adypr/edu1510-React/blob/master/screen.jpg)
 
 ## Available Scripts
 
