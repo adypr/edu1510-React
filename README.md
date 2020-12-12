@@ -2,7 +2,7 @@
 
 ## Project source
 
-### The template was used for educational purposes from: [colorlib.com](https://colorlib.com/preview/#anipat)
+### The template was used for educational purposes from colorlib.com: [see html-template](https://colorlib.com/preview/#anipat)
 
 ![img](https://github.com/adypr/edu1510-React/blob/master/screen.jpg)
 
