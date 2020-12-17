@@ -12,16 +12,12 @@ import {Contact} from "./components/Contact";
 import {Footer} from "./components/Footer";
 import {Bradcam} from "./components/Bradcam";
 import {Blog} from "./components/Blog";
-import {Bradcamblog} from "./components/Bradcam-blog";
-import {Bradcamsingleblog} from "./components/Bradcam-single-blog";
 import {Post} from "./components/Post";
-import {Bradcamelements} from "./components/Bradcam-elements";
 import {Sampletext} from "./components/Sampletext";
 import {Samplebuttons} from "./components/Samplebuttons";
 import {Samplealign} from "./components/Samplealign";
-import {Bradcamservices} from "./components/Bradcam-services";
-import {Bradcamcontacts} from "./components/Bradcam-contacts";
 import {Contacts} from "./components/Contacts";
+import React from "react";
 
 function App() {
   return (
@@ -42,7 +38,7 @@ function App() {
           }/>
           <Route path="/about" component={()=>
               <div>
-                  <Bradcam/>
+                  <Bradcam bradcamTitle="About us" />
                   <Petcare/>
                   <Adapt/>
                   <Testmonial/>
@@ -52,19 +48,19 @@ function App() {
           }/>
             <Route path="/blog" component={()=>
                 <div>
-                    <Bradcamblog/>
+                    <Bradcam bradcamTitle="Blog" />
                     <Blog/>
                 </div>
             }/>
             <Route path="/single-blog" component={()=>
                 <div>
-                    <Bradcamsingleblog/>
+                    <Bradcam bradcamTitle="Single Blog" />
                     <Post/>
                 </div>
             }/>
             <Route path="/elements" component={()=>
                 <div>
-                    <Bradcamelements/>
+                    <Bradcam bradcamTitle="Elements" />
                     <Sampletext/>
                     <Samplebuttons/>
                     <Samplealign/>
@@ -72,7 +68,7 @@ function App() {
             }/>
             <Route path="/services" component={()=>
                 <div>
-                    <Bradcamservices/>
+                    <Bradcam bradcamTitle="Services" />
                     <Service/>
                     <Testmonial/>
                     <Team/>
@@ -81,7 +77,7 @@ function App() {
             }/>
             <Route path="/contacts" component={()=>
                 <div>
-                    <Bradcamcontacts/>
+                    <Bradcam bradcamTitle="Contact" />
                     <Contacts/>
                 </div>
             }/>

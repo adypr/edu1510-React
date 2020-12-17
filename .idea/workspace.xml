@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00ad55f6-c740-4a98-b0fa-85284c4c0398" name="Default Changelist" comment="" />
+    <list default="true" id="00ad55f6-c740-4a98-b0fa-85284c4c0398" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Bradcam-blog.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Bradcam-contacts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Bradcam-elements.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Bradcam-services.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Bradcam-single-blog.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Bradcam.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Bradcam.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Samplealign-base.jsx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +60,9 @@
       <option name="presentableId" value="Default" />
       <updated>1607711465164</updated>
       <workItem from="1607711471163" duration="6187000" />
-      <workItem from="1607757400181" duration="27066000" />
+      <workItem from="1607757400181" duration="29363000" />
+      <workItem from="1607801430203" duration="32000" />
+      <workItem from="1608229457585" duration="8188000" />
     </task>
     <servers />
   </component>
